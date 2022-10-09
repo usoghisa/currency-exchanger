@@ -1,4 +1,4 @@
-System.out.print("ugo version 2");
+System.out.print("ugo version 3");
 System.out.print("If I give you £1, how many Euro will you give me? ");
 double euroOverPoundRatio = Double.parseDouble(System.console().readLine());
 System.out.print("If I give you 1€, how many Sterling pounds will you give me? ");
